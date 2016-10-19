@@ -38,3 +38,17 @@ captures/
 
 # Keystore files
 *.jks
+.idea/libraries/
+.idea/
+gradle/
+app/src/main/res/mipmap-xxhdpi/
+app/src/main/res/mipmap-hdpi/ic_launcher.png
+app/src/main/res/mipmap-xhdpi/ic_launcher.png
+app/src/main/res/mipmap-mdpi/ic_launcher.png
+app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+app/proguard-rules.pro
+app/
+gradle.properties
+gradlew.bat
+gradlew
+settings.gradle
