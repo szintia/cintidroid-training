@@ -13,5 +13,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/send_button"/>
+        android:text="@string/send_button"
+        android:onClick="sendMessage"/> <!-- call the sendMessage() method whenever the user clicks on the button-->
 </LinearLayout>
