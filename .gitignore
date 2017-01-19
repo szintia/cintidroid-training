@@ -52,3 +52,13 @@ gradle.properties
 gradlew.bat
 gradlew
 settings.gradle
+texttospeech/src/main/res/values/
+texttospeech/src/main/res/values-v21/styles.xml
+texttospeech/src/main/res/mipmap-xxxhdpi/
+texttospeech/proguard-rules.pro
+texttospeech/src/main/res/mipmap-hdpi/ic_launcher.png
+texttospeech/src/main/res/mipmap-mdpi/
+texttospeech/src/main/res/mipmap-xhdpi/ic_launcher.png
+texttospeech/src/main/res/mipmap-xxhdpi/ic_launcher.png
+texttospeech/src/main/res/values-w820dp/dimens.xml
+texttospeech/build.gradle
